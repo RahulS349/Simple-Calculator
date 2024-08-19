@@ -1,0 +1,1 @@
+This code implements a simple stopwatch with start, stop, and reset functionality using Tkinter. It continuously updates a label to show the elapsed time while running and handles the different states of the buttons to ensure proper functionality.
